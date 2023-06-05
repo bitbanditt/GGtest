@@ -2,7 +2,7 @@
 
 Google Gruyere Privilege Elevation Exploit
 
-    Using the terminal pip is installed aloowing for the istall of typer and playwright using 'pip install'
+    Using the terminal pip is installed allowing for the istall of typer and playwright using 'pip install'
     
     The required libraries (requests, typer, unittest, and playwright.sync_api) are imported.
 
